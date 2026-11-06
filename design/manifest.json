@@ -1,0 +1,110 @@
+{
+  "file_id": "01M6PXHBVJ8NYD1ZXS7G6R9SYE",
+  "url": "https://app.paper.design/file/01M6PXHBVJ8NYD1ZXS7G6R9SYE/p-1-0",
+  "name": "Cash-Lab-Demo-01",
+  "page_id": "p-1-0",
+  "status": "design_reference_only_no_application",
+  "revision": 2,
+  "frames": [
+    {
+      "name": "dashboard-light",
+      "node_id": "1-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "dashboard-light.jpg"
+    },
+    {
+      "name": "dashboard-dark",
+      "node_id": "5A-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "dashboard-dark.jpg"
+    },
+    {
+      "name": "import-review-light",
+      "node_id": "B9-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "import-review-light.jpg"
+    },
+    {
+      "name": "import-review-dark",
+      "node_id": "KA-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "import-review-dark.jpg"
+    },
+    {
+      "name": "settings-light",
+      "node_id": "SP-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "settings-light.jpg"
+    },
+    {
+      "name": "settings-dark",
+      "node_id": "VA-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "settings-dark.jpg"
+    },
+    {
+      "name": "analytics-light",
+      "node_id": "XW-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "analytics-light.jpg"
+    },
+    {
+      "name": "analytics-dark",
+      "node_id": "13E-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "analytics-dark.jpg"
+    },
+    {
+      "name": "payment-history-light",
+      "node_id": "19D-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "payment-history-light.jpg"
+    },
+    {
+      "name": "payment-history-dark",
+      "node_id": "1E1-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "payment-history-dark.jpg"
+    },
+    {
+      "name": "upload-docked-light",
+      "node_id": "1IQ-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "upload-docked-light.jpg"
+    },
+    {
+      "name": "upload-docked-dark",
+      "node_id": "1OT-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "upload-docked-dark.jpg"
+    },
+    {
+      "name": "states-light",
+      "node_id": "1UX-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "states-light.jpg"
+    },
+    {
+      "name": "states-dark",
+      "node_id": "1YC-0",
+      "width": 1440,
+      "height": 900,
+      "screenshot": "states-dark.jpg"
+    }
+  ],
+  "exported_utc": "2026-11-05T23:02:52.927888+00:00",
+  "note": "Screenshots and design inputs only. Source JSX exports are intentionally absent from this live-build repository."
+}

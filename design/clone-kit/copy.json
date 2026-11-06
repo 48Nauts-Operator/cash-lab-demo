@@ -1,0 +1,3689 @@
+{
+  "dashboard": [
+    {
+      "text": "Cashflow Lab",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "DEMO",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Analysen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Demo-Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eigene Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+ Dokument importieren",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Deine nächsten sechs Wochen.",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Was passiert, wenn dein Kunde später zahlt?",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Zeitraum · Wochen ab Montag",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "09.11.2026 bis 20.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Anfangsbestand",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "CHF 10'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Endsaldo am 20. Dezember",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 2'000",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Unverändert zum Basisplan",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Niedrigster Wochensaldo",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF −5'000",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Woche ab 23. November",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Erste negative Woche",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "16. November",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Studio Nord zahlt 14 Tage später.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Liquidität im Vergleich",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Szenario · Studio Nord +14 Tage",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "– – Basisplan",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "━━ Szenario",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Szenario zurücksetzen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Basis",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "13'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "9'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "3'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "2'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "−1'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "−5'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "3'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "2'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Offene Rechnungen",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "4 Eingänge · CHF 33'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Kunde",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Betrag",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Fälligkeit",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Erwarteter Eingang",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Atelier West",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 4'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "11.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "11.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Studio Nord",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "CHF 14'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "18.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "02.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Berg & Tal",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 6'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "25.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "25.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Werkraum",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 9'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "09.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "09.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Geplante Auszahlungen",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Bearbeiten",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Woche ab 09. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 7'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 16. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 8'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 23. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 10'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 30. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 6'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 07. Dez.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 5'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 14. Dez.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 5'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Fiktive Demo-Daten · Wochensalden können Engpässe innerhalb einer Woche verdecken.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Letzte Speicherung gerade eben",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    }
+  ],
+  "upload-docked": [
+    {
+      "text": "Cashflow Lab",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "DEMO",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Analysen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Demo-Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eigene Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+ Dokument importieren",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Deine nächsten sechs Wochen.",
+      "typography": {
+        "fontSize": "'26px'",
+        "lineHeight": "'32px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "09.11. bis 20.12.2026 · Demo-Daten",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Anfangsbestand CHF 10'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Endsaldo",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 2'000",
+      "typography": {
+        "fontSize": "'28px'",
+        "lineHeight": "'34px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "Niedrigster Wochensaldo",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF −5'000",
+      "typography": {
+        "fontSize": "'28px'",
+        "lineHeight": "'34px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "Erste negative Woche",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "16. November",
+      "typography": {
+        "fontSize": "'28px'",
+        "lineHeight": "'34px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "Liquidität · Studio Nord +14 Tage",
+      "typography": {
+        "fontSize": "'16px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "– – Basisplan",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "━━ Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Zurücksetzen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Basis",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "13'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "9'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "3'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "2'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "−1'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "−5'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "3'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "2'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Offene Rechnungen",
+      "typography": {
+        "fontSize": "'17px'",
+        "lineHeight": "'23px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "4 Eingänge · CHF 33'000",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Kunde",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Betrag",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Fälligkeit",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Erwarteter Eingang",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Atelier West",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 4'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "11.11.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "11.11.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Studio Nord",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "CHF 14'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "18.11.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "02.12.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Berg & Tal",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 6'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "25.11.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "25.11.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Werkraum",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 9'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "09.12.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "09.12.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Geplante Auszahlungen · CHF 41'000 über sechs Wochen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Auszahlungen bearbeiten",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Fiktive Daten · Der Plan bleibt während der Dokumentprüfung bedienbar.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Dokumente",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Zielplan",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Eigene Daten ▾",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Die Demo bleibt unverändert.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Dateien hier ablegen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "PDF, Scan oder .eml",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Datei auswählen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "3 Dokumente · Beispiel-Warteschlange",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "01-text-invoice.pdf",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Bereit zur Prüfung",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Prüfen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "02-scan-invoice.pdf",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "OCR · Text wird erkannt",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Abbrechen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "studio-nord-zusage.eml",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Wartet auf Bestätigung",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Inhalt prüfen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Vor jeder Analyse bestätigst du, welche Inhalte an TypeSafe gehen.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    }
+  ],
+  "import-review": [
+    {
+      "text": "Cashflow Lab",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "DEMO",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Analysen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Demo-Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eigene Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+ Dokument importieren",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Deine nächsten sechs Wochen.",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Was passiert, wenn dein Kunde später zahlt?",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Zeitraum · Wochen ab Montag",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "09.11.2026 bis 20.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Anfangsbestand",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "CHF 10'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Endsaldo am 20. Dezember",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 2'000",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Unverändert zum Basisplan",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Niedrigster Wochensaldo",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF −5'000",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Woche ab 23. November",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Erste negative Woche",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "16. November",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.04em'"
+      }
+    },
+    {
+      "text": "Studio Nord zahlt 14 Tage später.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Liquidität im Vergleich",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Szenario · Studio Nord +14 Tage",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "– – Basisplan",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "━━ Szenario",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Szenario zurücksetzen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Basis",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "13'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "9'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "3'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "2'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "−1'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "−5'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "3'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "7'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "2'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Offene Rechnungen",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "4 Eingänge · CHF 33'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Kunde",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Betrag",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Fälligkeit",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Erwarteter Eingang",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Szenario",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Atelier West",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 4'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "11.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "11.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Studio Nord",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "CHF 14'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "18.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "02.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Berg & Tal",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 6'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "25.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "25.11.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Werkraum",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 9'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "09.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "09.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+14 Tage",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Geplante Auszahlungen",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Bearbeiten",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Woche ab 09. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 7'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 16. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 8'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 23. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 10'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 30. Nov.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 6'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 07. Dez.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 5'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Woche ab 14. Dez.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "CHF 5'000",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Fiktive Demo-Daten · Wochensalden können Engpässe innerhalb einer Woche verdecken.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Letzte Speicherung gerade eben",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Dokumente importieren",
+      "typography": {
+        "fontSize": "'24px'",
+        "lineHeight": "'30px'",
+        "fontWeight": "600",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "Zielplan: Eigene Daten ▾ · Demo-Daten bleiben unverändert",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "PDF oder E-Mail-Datei",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "E-Mail-Text einfügen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Dateien hier ablegen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "PDF, Scan oder .eml mit PDF-Anhängen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Datei auswählen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "PDF",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'14px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "03-multiple-amounts.pdf",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "1 Seite · Fiktive Rechnung für die Demo",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Erkannt · bitte prüfen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Beleg · Seite 1",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Cashflow Demo Agentur AG",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Rechnung an\nAtelier Seefeld\nZürich",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "Rechnung TEST-003",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'22px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Ausgestellt: 26.11.2026\nFällig: 10.12.2026",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Konzept und Gestaltung\nCHF 4'000.00\nMWST 8.1% · CHF 324.00",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Total CHF 4'324.00",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Markierte Angaben stammen aus dem Beleg. Erwartete Zahlung und offener Betrag bleiben deine Einschätzung.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Angaben für deinen Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Zahlungsrichtung",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Eingang",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Ausgang",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Kunde / Lieferant",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Atelier Seefeld",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Noch offener Betrag in CHF",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "4'324.00",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Rechnungsbetrag erkannt. Teilzahlungen bitte abziehen.",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Rechnungsfälligkeit",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "10.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Erwartete Zahlung",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "10.12.2026",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Aus Fälligkeit vorgeschlagen · bitte bestätigen.",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Ich habe Zahlungsrichtung, offenen Betrag und erwartetes Zahlungsdatum geprüft.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Nur bestätigte Werte fliessen in den Plan.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'"
+      }
+    },
+    {
+      "text": "Abbrechen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Übernehmen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "500"
+      }
+    }
+  ],
+  "settings": [
+    {
+      "text": "Cashflow Lab",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "DEMO",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Analysen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Demo-Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eigene Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+ Dokument importieren",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Einstellungen",
+      "typography": {
+        "fontSize": "'32px'",
+        "lineHeight": "'38px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Dein Unternehmen und die Dokumentprüfung.",
+      "typography": {
+        "fontSize": "'15px'",
+        "lineHeight": "'21px'"
+      }
+    },
+    {
+      "text": "Zurück zum Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Unternehmen",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Damit Rechnungen deinem Unternehmen zugeordnet werden können.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Firmenname *",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Cashflow Demo Agentur AG",
+      "typography": {
+        "fontSize": "'15px'",
+        "lineHeight": "'21px'"
+      }
+    },
+    {
+      "text": "Adresse · optional",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Musterstrasse 12, 8000 Zürich",
+      "typography": {
+        "fontSize": "'15px'",
+        "lineHeight": "'21px'"
+      }
+    },
+    {
+      "text": "Kontakt-E-Mail · optional",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "demo@example.com",
+      "typography": {
+        "fontSize": "'15px'",
+        "lineHeight": "'21px'"
+      }
+    },
+    {
+      "text": "Fiktive Angaben für die Vorführung.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Jev / TypeSafe",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Nicht verbunden",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Prüft erkannte Angaben gegen die übergebenen Belege.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Gespeicherter API-Key: keiner",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Neuer API-Key",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "API-Key eingeben",
+      "typography": {
+        "fontSize": "'15px'",
+        "lineHeight": "'21px'"
+      }
+    },
+    {
+      "text": "Ein gespeicherter Schlüssel wird nicht wieder angezeigt.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Modell",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Nach erfolgreicher Verbindung auswählen",
+      "typography": {
+        "fontSize": "'15px'",
+        "lineHeight": "'21px'"
+      }
+    },
+    {
+      "text": "Verbindung prüfen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Noch kein Verbindungstest ausgeführt.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Dokumentinhalte werden erst nach deiner Bestätigung zur Erkennung an TypeSafe übertragen.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Änderungen gelten für Eigene Daten. Die Demo bleibt unverändert.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Abbrechen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Speichern",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    }
+  ],
+  "analytics": [
+    {
+      "text": "Cashflow Lab",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "DEMO",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Analysen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Demo-Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eigene Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+ Dokument importieren",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Dein Plan in Zahlen.",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "09.11. bis 20.12.2026 · Fiktive Demo-Daten · Wochensalden",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Übersicht",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Zahlungsverhalten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Geplante Eingänge",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 33'000",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "4 Rechnungen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Geplante Auszahlungen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 41'000",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "6 Auszahlungen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Netto-Cashflow",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF −8'000",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eingänge minus Auszahlungen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Endsaldo",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 2'000",
+      "typography": {
+        "fontSize": "'30px'",
+        "lineHeight": "'36px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Anfangsbestand CHF 10'000",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Prognose über Zeit",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Basisplan gestrichelt · Szenario blau · CHF",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Wöchentliches Volumen · Basisplan",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eingänge blau · Auszahlungen grau · CHF",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Kostenkategorien",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "CHF 41'000 · geplante Auszahlungen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Personal",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 15'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Externe Leistungen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 10'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Büro",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 6'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Software",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 5'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Marketing",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "CHF 5'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Jev-Prüfung je Rechnung",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Fiktive Prüfergebnisse",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Atelier West",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Geprüft",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Betrag und Fälligkeit belegt.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Quelle →",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Studio Nord",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Vorschlag",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Erwarteten Eingang bestätigen.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Quelle →",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Berg & Tal",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Angaben fehlen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Zahlungsstatus nicht im Beleg.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Quelle →",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Werkraum",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Nicht geprüft",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Prüfung noch nicht gestartet.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Quelle →",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Jev prüft Belege. Zahlungszeitpunkt und Übernahme bestätigst du.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    }
+  ],
+  "payment-history": [
+    {
+      "text": "Cashflow Lab",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "700",
+        "letterSpacing": "'-0.03em'"
+      }
+    },
+    {
+      "text": "DEMO",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'16px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Plan",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Analysen",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Demo-Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Eigene Daten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "+ Dokument importieren",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Was sagt die Zahlungshistorie?",
+      "typography": {
+        "fontSize": "'28px'",
+        "lineHeight": "'34px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "48 bezahlte Demo-Rechnungen · Fälligkeiten Mai bis Oktober 2026 · Stichtag 06.11.2026",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Synthetische Historie",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Übersicht",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Zahlungsverhalten",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Pünktlich bezahlt",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Blau: am oder vor Fälligkeit · Grau: verspätet · je 12 Belege",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Atelier West",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "9 / 12",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Median 0 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Studio Nord",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "1 / 12",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Median 14 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Berg & Tal",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "1 / 12",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Median 7 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Werkraum",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "11 / 12",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Median 0 Tage",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Studio Nord im Detail",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "14 Tage",
+      "typography": {
+        "fontSize": "'34px'",
+        "lineHeight": "'40px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "mediane Verspätung",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "12 vollständig bezahlte Rechnungen · 1 davon pünktlich",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Einzelne Verspätungen in Kalendertagen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "14",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "14",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "7",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "21",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "14",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "28",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "0",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "14",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "7",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "21",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "14",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "14",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Offene überfällige Rechnungen am Stichtag: 0.\nDie Historie ist keine Wahrscheinlichkeit für eine künftige Zahlung.",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Eine Nachricht verändert den Plan",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Mit Jev prüfen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Studio Nord · 06.11.2026 · DEMO-2026-002",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Hallo, wir können die Rechnung DEMO-2026-002 über CHF 14'000 nicht wie vorgesehen am 18. November bezahlen.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Wir werden am 2. Dezember 2026 zahlen.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Der Rechnungsbetrag bleibt unverändert. Grüsse, Studio Nord.",
+      "typography": {
+        "fontSize": "'14px'",
+        "lineHeight": "'20px'"
+      }
+    },
+    {
+      "text": "Weitere Demo-Fälle: strittige Position ohne Termin · angekündigte Teilzahlung",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Vorschlag zu DEMO-2026-002 · CHF 14'000",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Fiktives Beispielergebnis · Prüfung noch nicht gestartet",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'"
+      }
+    },
+    {
+      "text": "Vertragliche Fälligkeit",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Originalrechnung",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "18.11.2026",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Vorschlag aus Historie",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Median +14 Tage · 12 Belege",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "02.12.2026",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Zusage in der Nachricht",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Originalsatz links",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "02.12.2026",
+      "typography": {
+        "fontSize": "'18px'",
+        "lineHeight": "'24px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Nach Übernahme: Tiefpunkt CHF −5'000",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Fälligkeit bleibt unverändert · Endsaldo CHF 2'000",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "Als Szenario übernehmen",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'",
+        "fontWeight": "600"
+      }
+    }
+  ],
+  "states": [
+    {
+      "text": "Zustände und Rückmeldungen",
+      "typography": {
+        "fontSize": "'28px'",
+        "lineHeight": "'34px'",
+        "fontWeight": "650",
+        "fontVariationSettings": "'\"wght\" 650'"
+      }
+    },
+    {
+      "text": "Wiederverwendbare Zustände für Import und Prüfung · Fiktive Beispiele",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Leerer Plan",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Noch keine eigenen Daten",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Lade eine Rechnung oder E-Mail. Dein eigener Plan bleibt von der Demo getrennt.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Dokument importieren",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Demo-Daten laden",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "OCR läuft",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Text wird erkannt",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "02-scan-invoice.pdf\nDie Erkennung läuft. Du kannst den Plan weiter bearbeiten.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Abbrechen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Jev-Prüfung läuft",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Angaben werden geprüft",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "03-multiple-amounts.pdf\nNoch keine Buchung übernommen. Der Entwurf bleibt gespeichert.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Abbrechen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Einrichtung erforderlich",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "API-Zugang fehlt",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Hinterlege einen API-Key in den Einstellungen, um Dokumente mit Jev zu prüfen.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Einstellungen öffnen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Prüfung fehlgeschlagen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "TypeSafe nicht erreichbar",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Dein Entwurf ist gespeichert. Es wurden keine Daten in den Plan übernommen.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Erneut versuchen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Manuell prüfen",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "Mögliches Duplikat",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Rechnung bereits vorhanden",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "TEST-001 · Studio Nord · CHF 14'000\nVergleiche den Beleg, bevor du erneut buchst.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Vorhandene Rechnung öffnen",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Import verwerfen",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "Übernahme gesperrt",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Bitte Angaben ergänzen",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Fälligkeit fehlt · Zahlungsrichtung unklar\nPrüfe den Originalbeleg und ergänze beide Felder.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Angaben bearbeiten",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Deine Bestätigung",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "An TypeSafe senden?",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "03-multiple-amounts.pdf · 1 Seite\nGesendet werden Belegtext und erkannte Angaben.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Diese Inhalte zur Prüfung senden",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "Prüfung starten",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    },
+    {
+      "text": "Inhalte ansehen",
+      "typography": {
+        "fontSize": "'11px'",
+        "lineHeight": "'17px'"
+      }
+    },
+    {
+      "text": "Erfolgreich gespeichert",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "Rechnung übernommen",
+      "typography": {
+        "fontSize": "'20px'",
+        "lineHeight": "'26px'",
+        "fontWeight": "600"
+      }
+    },
+    {
+      "text": "TEST-003 · Atelier Seefeld · CHF 4'324\nZielplan: Eigene Daten. Deine Demo bleibt unverändert.",
+      "typography": {
+        "fontSize": "'13px'",
+        "lineHeight": "'19px'"
+      }
+    },
+    {
+      "text": "Zum eigenen Plan",
+      "typography": {
+        "fontSize": "'12px'",
+        "lineHeight": "'18px'",
+        "fontWeight": "500"
+      }
+    }
+  ]
+}

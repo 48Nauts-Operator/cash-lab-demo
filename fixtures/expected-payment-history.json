@@ -1,0 +1,43 @@
+{
+  "asOfDate": "2026-11-06",
+  "customers": [
+    {
+      "counterparty": "Atelier West",
+      "settledInvoiceCount": 12,
+      "onTimeCount": 9,
+      "lateCount": 3,
+      "onTimeRate": 0.75,
+      "medianDelayDays": 0.0
+    },
+    {
+      "counterparty": "Studio Nord",
+      "settledInvoiceCount": 12,
+      "onTimeCount": 1,
+      "lateCount": 11,
+      "onTimeRate": 0.08333333333333333,
+      "medianDelayDays": 14.0
+    },
+    {
+      "counterparty": "Berg & Tal",
+      "settledInvoiceCount": 12,
+      "onTimeCount": 1,
+      "lateCount": 11,
+      "onTimeRate": 0.08333333333333333,
+      "medianDelayDays": 7.0
+    },
+    {
+      "counterparty": "Werkraum",
+      "settledInvoiceCount": 12,
+      "onTimeCount": 11,
+      "lateCount": 1,
+      "onTimeRate": 0.9166666666666666,
+      "medianDelayDays": 0.0
+    }
+  ],
+  "selectedScenario": {
+    "entryId": "income-02",
+    "dueDate": "2026-11-18",
+    "historyBasedSuggestedDate": "2026-12-02",
+    "source": "synthetic_customer_history_not_payment_probability"
+  }
+}

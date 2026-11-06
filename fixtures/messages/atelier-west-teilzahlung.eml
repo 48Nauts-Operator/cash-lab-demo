@@ -1,0 +1,14 @@
+From: demo-kunde@example.test
+To: cashflow@example.test
+Date: Fri, 06 Nov 2026 09:00:00 +0100
+Subject: Teilzahlung =?utf-8?q?angek=C3=BCndigt?=
+Message-ID: <partial-01@example.test>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Von DEMO-2026-001 =C3=BCber CHF 4'000 m=C3=B6chten wir zun=C3=A4chst CHF 2'00=
+0 am 11. November 2026 bezahlen. Zum Rest nennen wir noch keinen Termin. Dies=
+ ist eine Ank=C3=BCndigung, keine Zahlungsbest=C3=A4tigung. Atelier West.
+
+Fiktive Nachricht f=C3=BCr den Cashflow-Lab-Test. Keine echte Zahlung.

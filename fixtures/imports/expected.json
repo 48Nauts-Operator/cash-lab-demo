@@ -1,0 +1,99 @@
+{
+  "synthetic": true,
+  "organizationLabel": "Cashflow Demo Agentur AG",
+  "cases": [
+    {
+      "file": "01-text-invoice.pdf",
+      "expected": {
+        "direction": "in",
+        "counterparty": "Studio Nord",
+        "invoiceNumber": "TEST-001",
+        "amountCents": 1400000,
+        "currency": "CHF",
+        "dueDate": "2026-11-18"
+      },
+      "outcome": "review_then_confirm"
+    },
+    {
+      "file": "02-scan-invoice.pdf",
+      "same_fields_as": "01-text-invoice.pdf",
+      "outcome": "ocr_then_review",
+      "when_imported_after_01": "possible_duplicate_no_second_booking"
+    },
+    {
+      "file": "03-multiple-amounts.pdf",
+      "expected": {
+        "direction": "in",
+        "counterparty": "Atelier Seefeld",
+        "invoiceNumber": "TEST-003",
+        "amountCents": 432400,
+        "currency": "CHF",
+        "dueDate": "2026-12-10"
+      },
+      "outcome": "choose_total_not_net_or_tax"
+    },
+    {
+      "file": "04-missing-date.pdf",
+      "expected": {
+        "dueDate": null
+      },
+      "outcome": "block_confirmation_until_manual_due_date"
+    },
+    {
+      "file": "05-two-invoices.pdf",
+      "outcome": "reject_multiple_invoices_ask_to_split"
+    },
+    {
+      "file": "06-encrypted.pdf",
+      "outcome": "reject_password_protected"
+    },
+    {
+      "file": "07-two-attachments.eml",
+      "expectedInvoiceCount": 2,
+      "outcome": "two_reviews_no_body_duplicates"
+    },
+    {
+      "file": "08-eur.txt",
+      "expected": {
+        "currency": "EUR"
+      },
+      "outcome": "require_confirmed_chf_conversion"
+    },
+    {
+      "file": "09-credit.txt",
+      "outcome": "no_automatic_credit_import"
+    },
+    {
+      "file": "10-paid.txt",
+      "expected": {
+        "amountCents": 0
+      },
+      "outcome": "excluded_no_future_cashflow"
+    },
+    {
+      "file": "11-partial.txt",
+      "expected": {
+        "amountCents": 600000,
+        "direction": "in",
+        "dueDate": "2026-11-18"
+      },
+      "outcome": "confirm_outstanding_amount"
+    },
+    {
+      "file": "12-instructions.txt",
+      "expected": {
+        "amountCents": 20000,
+        "direction": "out",
+        "dueDate": "2026-11-18"
+      },
+      "outcome": "treat_instructions_as_data_no_network_or_tools"
+    },
+    {
+      "file": "13-unclear-role.txt",
+      "expected": {
+        "direction": null
+      },
+      "outcome": "require_manual_direction"
+    }
+  ]
+}

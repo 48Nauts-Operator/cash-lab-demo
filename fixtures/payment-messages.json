@@ -1,0 +1,45 @@
+{
+  "synthetic": true,
+  "messages": [
+    {
+      "id": "promise-01",
+      "relatedEntryId": "income-02",
+      "receivedDate": "2026-11-06",
+      "subject": "DEMO-2026-002: Zahlung am 2. Dezember",
+      "body": "Hallo, wir können die Rechnung DEMO-2026-002 über CHF 14'000 nicht wie vorgesehen am 18. November bezahlen. Wir werden am 2. Dezember 2026 zahlen. Der Rechnungsbetrag bleibt unverändert. Grüsse, Studio Nord.",
+      "expected": {
+        "hasPaymentPromise": true,
+        "promisedPaymentDate": "2026-12-02",
+        "hasDispute": false,
+        "requiresHumanConfirmation": true
+      }
+    },
+    {
+      "id": "dispute-01",
+      "relatedEntryId": "income-03",
+      "receivedDate": "2026-11-06",
+      "subject": "Rückfrage zu DEMO-2026-003",
+      "body": "Wir bestreiten die Position Zusatzleistungen auf Rechnung DEMO-2026-003 über CHF 6'000. Bitte klären, bevor wir zahlen. Wir nennen noch keinen Zahlungstermin. Berg & Tal.",
+      "expected": {
+        "hasPaymentPromise": false,
+        "promisedPaymentDate": null,
+        "hasDispute": true,
+        "requiresHumanConfirmation": true
+      }
+    },
+    {
+      "id": "partial-01",
+      "relatedEntryId": "income-01",
+      "receivedDate": "2026-11-06",
+      "subject": "Teilzahlung angekündigt",
+      "body": "Von DEMO-2026-001 über CHF 4'000 möchten wir zunächst CHF 2'000 am 11. November 2026 bezahlen. Zum Rest nennen wir noch keinen Termin. Dies ist eine Ankündigung, keine Zahlungsbestätigung. Atelier West.",
+      "expected": {
+        "hasPaymentPromise": true,
+        "promisedPaymentDate": "2026-11-11",
+        "promisedAmountCents": 200000,
+        "actualPaymentConfirmed": false,
+        "requiresHumanConfirmation": true
+      }
+    }
+  ]
+}

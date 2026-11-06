@@ -1,0 +1,45 @@
+{
+  "baseline": {
+    "closingBalancesCents": [
+      700000,
+      1300000,
+      900000,
+      300000,
+      700000,
+      200000
+    ],
+    "minimumCents": 200000,
+    "endingCents": 200000,
+    "firstNegativeWeek": null
+  },
+  "shift14Days": {
+    "entryId": "income-02",
+    "originalExpectedDate": "2026-11-18",
+    "expectedPaymentDate": "2026-12-02",
+    "closingBalancesCents": [
+      700000,
+      -100000,
+      -500000,
+      300000,
+      700000,
+      200000
+    ],
+    "minimumCents": -500000,
+    "endingCents": 200000,
+    "firstNegativeWeek": "2026-11-16"
+  },
+  "analytics": {
+    "incomingCents": 3300000,
+    "incomingCount": 4,
+    "outgoingCents": 4100000,
+    "outgoingCount": 6,
+    "netChangeCents": -800000,
+    "categoriesCents": {
+      "personnel": 1500000,
+      "external": 1000000,
+      "office": 600000,
+      "software": 500000,
+      "marketing": 500000
+    }
+  }
+}

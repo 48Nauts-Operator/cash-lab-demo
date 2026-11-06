@@ -1,0 +1,14 @@
+From: demo-kunde@example.test
+To: cashflow@example.test
+Date: Fri, 06 Nov 2026 09:00:00 +0100
+Subject: DEMO-2026-002: Zahlung am 2. Dezember
+Message-ID: <promise-01@example.test>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hallo, wir k=C3=B6nnen die Rechnung DEMO-2026-002 =C3=BCber CHF 14'000 nicht =
+wie vorgesehen am 18. November bezahlen. Wir werden am 2. Dezember 2026 zahle=
+n. Der Rechnungsbetrag bleibt unver=C3=A4ndert. Gr=C3=BCsse, Studio Nord.
+
+Fiktive Nachricht f=C3=BCr den Cashflow-Lab-Test. Keine echte Zahlung.

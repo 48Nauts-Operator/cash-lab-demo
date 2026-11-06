@@ -22,3 +22,10 @@ venv/
 node_modules/
 dist/
 build/
+
+# Cashflow runtime output
+.next/
+artifacts/
+uploads/
+data/
+*.log
