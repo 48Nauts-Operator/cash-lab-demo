@@ -4,7 +4,7 @@ Dieses Dokument beschreibt den vollständigen Neubau in einem vorbereiteten priv
 
 ## Vorbereitung vor der Vorführung
 
-- Ein freigegebenes Template mit stabilen kompatiblen Werkzeugen, Browser, PDF/OCR und PostgreSQL bereitstellen. Exakte Versionen, Image-/Rootfs-Hashes, Gastkernel und Scanzeit dokumentieren. Kein Anwendungscode und keine Schlüssel im Template.
+- Ein freigegebenes Template mit stabilen kompatiblen Werkzeugen, Browser, Text-Demo und PostgreSQL bereitstellen. Exakte Versionen, Image-/Rootfs-Hashes, Gastkernel und Scanzeit dokumentieren. Kein Anwendungscode und keine Schlüssel im Template.
 - Ein Dependency-Cache ist Vorbereitung und muss exakt zu den ausgewählten Manifesten passen. Bei Abweichung neu bauen und prüfen; keine ungeprüfte Laufzeitinstallation einschleusen.
 - Den GitVM-Gast tatsächlich booten und Datenbank, Produktionsstart, Neustartverhalten, Browser und synthetischen Jev-Import prüfen. Containerprüfungen allein beweisen keinen Firecracker-Betrieb.
 - Einen fertigen Fallback separat betreiben. Angeforderte maximale Dashboard-TTL: **604800 Sekunden, sieben Tage**. Tatsächlich eingestellte Ablaufzeit und verfügbaren Ressourcen prüfen; niemals eine unbegrenzte Laufzeit behaupten.
@@ -12,9 +12,9 @@ Dieses Dokument beschreibt den vollständigen Neubau in einem vorbereiteten priv
 
 ## Aktuelle Freigabegrenze
 
-Am 6. November 2026 ist die GitVM-Vorlage noch nicht freigegeben. Der Betreiber hat nur den bekannten Host-Kernel-Befund ausgenommen. Das ist keine Ausnahme für Pakete im Gast. Die PDF-Verarbeitung über Poppler/OpenJPEG hat offene anwendbare Befunde; ein verifiziert behobener stabiler Ersatz wurde noch nicht nachgewiesen. Eine neuere Wrapper-Version oder ein sauberer npm-Scan ersetzt keine Prüfung eingebauter Decoder.
+Der Betreiber hat Datei-Uploads für die GitVM-Vorführung ausdrücklich aus dem Umfang genommen. Der Demo-Gast verwendet `CASHFLOW_DEMO_TEXT_ONLY=1`, zeigt den Upload-Button ausgegraut und weist auf die lokale Version hin. Direkte Datei-Requests und gespeicherte PDF-Quellen sind serverseitig gesperrt. Demo-Daten, eingefügter Text und echte Jev-Aufrufe bleiben verfügbar. PDF-/OCR-Pakete gehören nicht in dieses Template.
 
-Vor Deployment die exakten Artefakte erneut prüfen. Wenn Fix oder erforderliche Abdeckung fehlen, Deployment stoppen und den konkreten Blocker dokumentieren. Der Agent darf unabhängig davon lokale Implementierung und isolierte Tests durchführen. Dieses Repository verspricht keinen bereits laufenden GitVM-Fallback.
+Das neue Image und die Begrenzung der Eingabewege müssen geprüft werden. Die früheren PDF-Befunde gelten nicht automatisch für ein Image ohne diese Verarbeitung. Andere Befunde anhand der tatsächlichen Laufzeit prüfen und nicht pauschal ausblenden. Die Host-Ausnahme bleibt bestehen; ein native GitVM-Abnahme oder laufender Fallback ist noch nicht bestätigt.
 
 ## Vollständiger Neubau
 

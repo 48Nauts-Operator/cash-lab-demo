@@ -4,6 +4,16 @@ Version 1, 6. November 2026. Zielrepository: `https://github.com/48Nauts-Operato
 
 Dieser Auftrag beschreibt den vollständigen lokalen Prototyp und die Vorbereitung eines kurzen Live-Baus. Ein fertiges Paper-Design ist der Ausgangspunkt. Der aktuelle Implementierungs- und Prüfstatus steht in `docs/preflight.md` und später in `memory/state.md`. Eine Spezifikation oder ein Design ist noch keine funktionierende Anwendung.
 
+## GitVM playground profile
+
+Für die gehostete Vorführung gilt `CASHFLOW_DEMO_TEXT_ONLY=1`. Der Datei-Upload bleibt sichtbar, ist ausgegraut und erklärt, dass er nur in der lokalen Version verfügbar ist. Auch Drag-and-drop, direkte Upload-Requests und PDF-Anhänge müssen serverseitig gesperrt sein, bevor Inhalte geparst werden. Bereits gespeicherte PDF-/E-Mail-Dateien dürfen in diesem Profil nicht über eine Quellenroute ausgeliefert werden.
+
+Demo-Daten, Plan, Analysen, Einstellungen im autorisierten privaten Betrieb, eingefügter Rechnungs-/E-Mail-Text und echte Jev-Prüfungen bleiben verfügbar. Vorbereitete Zahlungsnachrichten aus den synthetischen Fixtures werden als Text geladen. Im GitVM-Template keine PDF-/OCR-Parser installieren.
+
+Für die vollständige lokale Installation ist das Profil aus oder `0`. Dort gehören PDF, Scan/OCR und EML-Import weiterhin zum Bauauftrag. Diese Funktionen lokal separat prüfen. Die PDF-Abnahmekriterien gelten für die lokale Version, nicht für die gehostete Vorführung. Das ist der ausdrücklich gewählte Demo-Umfang, kein bestandenes PDF-Testergebnis.
+
+Vor öffentlichem Spielbetrieb bleiben getrennte Sitzungen/Daten, geschützte Betreiber- und Jev-Einstellungen sowie Nutzungsgrenzen erforderlich. Ein Startrepository mit Bauunterlagen ist noch kein installierbarer Release; Repository, Tag und Installationsanleitung des vollständigen Releases erst nach tatsächlicher Veröffentlichung nennen.
+
 ## 1. Ziel und feste Grenzen
 
 André betreibt eine kleine Schweizer Dienstleistungsfirma. Er möchte erkennen, wie spätere Kundenzahlungen den verfügbaren Geldbestand verändern. Die Anwendung beantwortet: "Kann ich meine Ausgaben bezahlen, wenn mein Kunde zwei Wochen später zahlt?"

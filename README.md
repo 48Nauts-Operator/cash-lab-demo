@@ -20,3 +20,7 @@ Dieses Repository ist der Startpunkt für den Live-Bau. Es enthält den Bauauftr
 Die optionale Paper-Neukonstruktion und der vollständige App-Bau sind getrennte Messungen. Zwanzig Minuten sind ein Ziel, kein zugesagtes Ergebnis. Der separate fertige Fallback ist nicht Teil dieses Repositories.
 
 Es gibt hier keinen Anwendungscode, keine JSX-Exporte, Installationsskripte, Dependency-Manifeste oder Zugangsdaten. `.env.local`, Datenbank und Laufzeit werden erst im autorisierten Bauauftrag eingerichtet. Das Bereitstellen dieser Unterlagen ist kein erfolgreicher App-Test oder Deployment.
+
+## Hosted showcase and local version
+
+Die GitVM-Vorführung ist ein Playground mit Demo-Daten und echter Jev-Analyse von eingefügtem Text. Datei-Upload ist sichtbar ausgegraut und serverseitig gesperrt. Die vollständige lokale Version enthält PDF-/OCR- und EML-Import. Beide Profile und ihre getrennten Abnahmen sind in BUILD_SPEC.md festgelegt.

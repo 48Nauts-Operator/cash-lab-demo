@@ -1,5 +1,7 @@
 # Startprompt für den Demo-Testlauf
 
+GitVM-Demo: `CASHFLOW_DEMO_TEXT_ONLY=1`. Datei-Upload sichtbar ausgegraut, mit Hinweis auf die lokale Version; alle Datei-/PDF-/EML-Eingänge auch serverseitig sperren. Demo-Daten, eingefügter Text und echte Jev-Prüfungen bleiben aktiv. Für die vollständige lokale Version Upload/OCR implementieren und separat prüfen. Die Profilgrenzen stehen in BUILD_SPEC.md.
+
 Für einen Wiederholungslauf auf GitVM zuerst `docs/gitvm-run.md` lesen und dessen Modus, Release-Gate, Startpaket, Timer und Ersatzstand anwenden. Das vorbereitete Template enthält Werkzeuge und Abhängigkeiten. Ein vollständiger Neubau startet mit dem Paket `blank`; `ready` bleibt die separate fertige Ersatzversion. Ohne bestandene öffentliche Abnahme nur private Erreichbarkeit melden. 20 Minuten sind ein zu messendes Ziel.
 
 Ziel ist ausschliesslich `https://github.com/48Nauts-Operator/cash-lab-demo.git`. Arbeite in dessen frischem Checkout und prüfe den Git-Remote. Dieses Repository enthält nur Bauunterlagen, Designreferenzen und synthetische Eingaben. Die Anwendung entsteht während dieses Laufs. Kopiere keinen fertigen Stand aus einem anderen Repository.
