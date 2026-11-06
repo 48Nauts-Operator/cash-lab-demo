@@ -6,7 +6,7 @@ Stand 6. November 2026. Dieses Repository enthält noch keine Anwendung. Ergebni
 - Der vorbereitete Paper-Master und vierzehn Screenshots stehen in `design/manifest.json`. Zugriff über tatsächliche Paper-MCP-Werkzeuge auf dem ausführenden Rechner prüfen. Eine bestehende Verbindung auf einem anderen Mac wird nicht vorausgesetzt.
 - Den TypeSafe/Jev-Key stellt der Betreiber separat in privater serverseitiger Konfiguration bereit. Keine Schlüssel im Repository. Präsenz prüfen, ohne den Wert auszugeben; anschliessend einen echten synthetischen Test ausführen.
 - Runtime, stabile kompatible Abhängigkeiten, PostgreSQL, PDF/OCR, Browserwerkzeug und freie Ports vor Beginn des Live-Laufs vorbereiten und prüfen. Wenn diese Vorbereitung zum gemessenen Lauf gehört, darf ihre Zeit nicht abgezogen werden.
-- GitVM-Template und fertiger Fallback werden separat bereitgestellt. Am Dokumentationsstand ist kein neuer GitVM-Fallback als laufend bestätigt. Die Template-Freigabe ist wegen offener PDF-Parser-Befunde ausstehend. Details im GitVM-Runbook.
+- GitVM-Template und fertiger Fallback werden separat bereitgestellt. Der separate private GitVM-Fallback läuft im geprüften Text-Demo-Profil mit gesperrten Datei-Uploads. Diese Abnahme gilt für den Fallback, nicht als vorweggenommener Erfolg des Neubaus. Öffentliche Studentenroute und direkter MacBook-Test sind noch offen. Details im GitVM-Runbook.
 - E-Mail-Umfang ist `.eml` mit PDF-Anhängen oder eingefügter Text. Keine direkte Postfachverbindung voraussetzen.
 - Schreib frische Ergebnisse nach `docs/preflight-run.md`, gewählte Versionen nach `docs/versions.md` und den laufenden Stand nach `memory/state.md`.
 

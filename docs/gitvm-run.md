@@ -14,7 +14,7 @@ Dieses Dokument beschreibt den vollständigen Neubau in einem vorbereiteten priv
 
 Der Betreiber hat Datei-Uploads für die GitVM-Vorführung ausdrücklich aus dem Umfang genommen. Der Demo-Gast verwendet `CASHFLOW_DEMO_TEXT_ONLY=1`, zeigt den Upload-Button ausgegraut und weist auf die lokale Version hin. Direkte Datei-Requests und gespeicherte PDF-Quellen sind serverseitig gesperrt. Demo-Daten, eingefügter Text und echte Jev-Aufrufe bleiben verfügbar. PDF-/OCR-Pakete gehören nicht in dieses Template.
 
-Das neue Image und die Begrenzung der Eingabewege müssen geprüft werden. Die früheren PDF-Befunde gelten nicht automatisch für ein Image ohne diese Verarbeitung. Andere Befunde anhand der tatsächlichen Laufzeit prüfen und nicht pauschal ausblenden. Die Host-Ausnahme bleibt bestehen; ein native GitVM-Abnahme oder laufender Fallback ist noch nicht bestätigt.
+Das neue Image und die Begrenzung der Eingabewege müssen geprüft werden. Die früheren PDF-Befunde gelten nicht automatisch für ein Image ohne diese Verarbeitung. Andere Befunde anhand der tatsächlichen Laufzeit prüfen und nicht pauschal ausblenden. Die Host-Ausnahme bleibt bestehen. Das überarbeitete Text-Demo-Template hat inzwischen die private native GitVM-Abnahme bestanden; ein separater privater Fallback läuft mit sieben Tagen TTL. Konkrete private Zugangsdaten stellt der Betreiber separat bereit. Direkter MacBook-Test und öffentliche Studentenroute bleiben offen.
 
 ## Vollständiger Neubau
 
